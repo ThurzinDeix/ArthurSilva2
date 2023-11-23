@@ -12562,3 +12562,7 @@ fieldset:disabled .btn {
 .espace{
     margin-bottom: 40px;
 }
+
+textarea{
+    resize: none;
+}
